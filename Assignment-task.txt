@@ -1,0 +1,22 @@
+Task:
+1. Banner
+2. buy...and card
+3. leftside design..
+4. disable submit if amount 0 and eanble it if more than 200
+5. add items with name and show total price
+6.if amount >= 200, 20% discount , cuppon apply..
+7. calculate discount 
+8. calculate total after discount. 
+9.purchase-modal, go back home, set value 0 all
+
+
+Bonus:s
+reposive
+modal
+
+
+
+Repository-Link: https://github.com/Programming-Hero-Web-Course4/b8a5-summer-sale-Shakibcs
+https://github.com/Programming-Hero-Web-Course4/b8a5-summer-sale-Shakibcs.git
+
+Netflify: 
